@@ -1,0 +1,252 @@
+body {
+    background-color: #F5F5F5;
+    white-space: nowrap;
+    margin: 0PX;
+}
+
+.parte1 {
+    background-color: #a80000;
+    width: 870px;
+    height: 800px;
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+
+
+}
+
+.texto {
+    font-size: 2em;
+    font-weight: bold;
+    color: #dfdfdf;
+    margin-left: 25px;
+}
+
+.titulo {
+    font-size: 4em;
+    font-weight: bold;
+    color: #dfdfdf;
+    border-top: 15px;
+    margin-left: 25px;
+}
+
+.subtexto1 img {
+    color: #dfdfdf;
+    margin-left: 25px;
+}
+
+
+.subtexto1 h3 {
+    font-size: 1.7em;
+    font-weight: bold;
+    color: #dfdfdf;
+    margin-left: 25px;
+}
+
+.subtexto1 p {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #dfdfdf;
+    margin-left: 25px;
+}
+
+.subtexto2 img {
+    color: #dfdfdf;
+    margin-left: 25px;
+}
+
+
+.subtexto2 h3 {
+    font-size: 1.7em;
+    font-weight: bold;
+    color: #dfdfdf;
+    margin-left: 25px;
+}
+
+.subtexto2 p {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #dfdfdf;
+    margin-left: 25px;
+}
+
+.subtexto3 img {
+    color: #dfdfdf;
+    margin-left: 25px;
+}
+
+
+.subtexto3 h3 {
+    font-size: 1.7em;
+    font-weight: bold;
+    color: #dfdfdf;
+    margin-left: 25px;
+}
+
+.subtexto3 p {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #dfdfdf;
+    margin-left: 25px;
+}
+
+.parte2 {
+    background-color: white;
+    width: 870px;
+    height: 800px;
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    
+    height: 600px;
+    
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+.usuario {
+    flex-basis: 50%;
+    height: 50%;
+}
+
+
+.usuario img {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.usuario h2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #a80000;
+    margin-left: 130px;
+}
+
+.usuario p {
+    font-size: 2em;
+    font-weight: bold;
+    color: #a80000;
+    margin-left: 50px;
+
+}
+
+.verificado {
+    flex-basis: 50%;
+    height: 50%;
+   
+}
+
+.verificado img {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.verificado h2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #a80000;
+    margin-left: 110px;
+   
+}
+
+.verificado p {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #a80000;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.construcao {
+    flex-basis: 50%;
+    height: 50%;
+    
+}
+
+.construcao img {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.construcao h2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #a80000;
+    margin-left: 130px;
+   
+}
+
+.construcao p {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #a80000;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+.trofeu {
+    flex-basis: 50%;
+    height: 50%;
+    
+}
+
+.trofeu img {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.trofeu h2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #a80000;
+    margin-left: 130px;
+   
+}
+
+.trofeu p {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #a80000;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    font-family: 'ubuntu';
+    margin: 0px;
+  }
+
+  .logo h1 {
+    margin: 0;
+    background-color: red;
+  }
+
+  nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+  }
+  
+  nav ul li {
+    margin-left: 100px;
+    margin-top: 10px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }

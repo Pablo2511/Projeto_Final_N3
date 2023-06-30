@@ -1,0 +1,112 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    background-color: #666;
+
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .contact-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .contact-form {
+    width: 50%;
+  }
+  
+  .contact-form h2 {
+    margin-bottom: 10px;
+  }
+  
+  .contact-form form div {
+    margin-bottom: 10px;
+  }
+  
+  .contact-form label {
+    display: block;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  .contact-info {
+    width: 40%;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .contact-info h2 {
+    margin-bottom: 10px;
+  }
+  
+  .work-with-us {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .work-with-us h2 {
+    margin-bottom: 10px;
+  }
+  
+  .work-with-us .btn {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .map {
+    margin-top: 20px;
+    margin-left: 20px;
+    /* Estilos adicionais para o mapa */
+  }
+
+
+  /*header*/
+
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    font-family: 'ubuntu';
+    margin: 0px;
+  }
+
+  .logo h1 {
+    margin: 0;
+    background-color: red;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+  }
+  
+  nav ul li {
+    margin-left: 100px;
+    margin-top: 5px;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+
+  
